@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 💻 Currently working on **developing on my own as a developer, mainly in Python.**
 
-- 🌱 I’m currently learning **Flask, Django framework and a little bit of SQL and HTML with CSS and trying to develop my English Skills.**
+- 🌱 I’m currently learning **Flask, Django framework and a little bit of SQL and HTML with CSS.**
 
 - 📩 Open to contact with you: **grzegorz.miler.83@gmail.com**
 
