@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grzesiekm83&label=Profile%20views&color=0e75b6&style=flat" alt="grzesiekm83" /> </p>
 
-- 💻 Currently working on **developing on my own as a developer, mainly in Python.**
+- 💻 Currently developing my skills independently, mainly with Python.
 
 - 🌱 I’m currently learning **Flask, Django framework and a little bit of SQL and HTML with CSS.**
 
